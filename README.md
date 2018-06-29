@@ -4,6 +4,8 @@ A [vscode](https://code.visualstudio.com/) extension for viewing Jenkins job log
 
 ## Features
 
+![jenkins_log_viewer_public](https://user-images.githubusercontent.com/4519234/42072509-dd80d2cc-7b2e-11e8-9723-3cdfce95426f.gif)
+
 Fetches logs from jenkins and does some colour highlighting on errors.
 
 ## Extension Settings
