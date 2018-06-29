@@ -13,7 +13,7 @@ Fetches logs from jenkins and does some colour highlighting on errors.
 
 This extension contributes the following settings:
 
-- `jenkins.jenkinsPath`: set to specific job name (i.e. "https://my-jenkins.internal/job//pytest/")
+- `jenkins.jenkinsPath`: set to specific job name (i.e. "https://my-jenkins.internal/job/pytest/")
 
 ## Usage
 
